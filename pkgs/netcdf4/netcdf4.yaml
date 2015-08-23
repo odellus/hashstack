@@ -3,11 +3,7 @@ dependencies:
   build: [mpi, hdf5, curl]
 
 sources:
-<<<<<<< HEAD
-- key: tar.gz:xxpd3cyojdxnffeovvs7qlc47n2zamj3
-=======
 - key: tar.gz:6lxhr2zray34ab7qaht4ddrno46sh42f
->>>>>>> master
   url: https://github.com/Unidata/netcdf-c/archive/v4.3.3.1.tar.gz
 
 defaults:
